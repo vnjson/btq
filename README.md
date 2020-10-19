@@ -1,6 +1,6 @@
-## btq
+## vnjson-bot
 
-[btq-telegram](https://github.com/vnjson/btq-telegram/) 
+
 
 
 
